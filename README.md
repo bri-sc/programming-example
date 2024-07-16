@@ -3,5 +3,5 @@ Programming example for the Intensive Summer Camp associated with the Accelerate
 
 Click on this link to launch this through BinderHub:
 
-[![Binder](https://mybinder.org/v2/gh/bri-sc/programming-example/HEAD?labpath=sequence.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bri-sc/programming-example/HEAD?labpath=sequence.ipynb)
 
